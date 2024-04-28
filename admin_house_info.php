@@ -1,5 +1,5 @@
 <?php
-    require_once "./included_files/connfigure.php";
+    require_once "./connfigure.php";
 
     // checking if you already logged in, if not youll go back to log in page
     session_start();
@@ -382,7 +382,7 @@
         </div>
 
         <div>
-            <?php require_once "./included_files/admin_navigation_bar.php"?>
+            <?php require_once "./admin_navigation_bar.php"?>
         </div>
 
         <!-- houses status -->
