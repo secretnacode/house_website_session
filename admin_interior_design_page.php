@@ -1,5 +1,5 @@
 <?php
-     require_once "./included_files/connfigure.php";
+     require_once "./connfigure.php";
 
     // checking if you already logged in, if not youll go back to log in page
     session_start();
