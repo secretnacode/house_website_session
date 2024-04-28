@@ -1,5 +1,5 @@
 <?php
-    include_once "./included_files/connfigure.php";
+    include_once "./connfigure.php";
 
     $query = "SELECT * FROM `admin_info` WHERE id = 1";
     $select = mysqli_query($conn, $query);
