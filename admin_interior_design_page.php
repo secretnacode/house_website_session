@@ -257,7 +257,7 @@
 
     <!-- navigation bar -->
     <div>
-        <?php require_once "./included_files/admin_navigation_bar.php"?>
+        <?php require_once "./admin_navigation_bar.php"?>
     </div>
 
     <!-- house interior designs -->
@@ -287,7 +287,7 @@
         </div>
 
         <div>
-            <?php require_once "./included_files/admin_navigation_bar.php"?>
+            <?php require_once "./admin_navigation_bar.php"?>
         </div>
 
         <!-- houses status -->
